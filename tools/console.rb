@@ -35,7 +35,7 @@ b8 = BloodOath.new(c2, f4)
 b4 = BloodOath.new(c1, f5)
 b5 = BloodOath.new(c3, f6)
 b6 = BloodOath.new(c4, f7)
-b7 = BloodOath.new(c5, f3)
+b7 = BloodOath.new(c4, f3)
 binding.pry
 
 puts "Mwahahaha!" # just in case pry is buggy and exits
