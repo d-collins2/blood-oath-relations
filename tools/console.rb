@@ -28,9 +28,9 @@ f7 = Follower.new("Tony",17, "I print lectures and learn HARDCORE.")
 
 
 b1 = BloodOath.new(c1, f1)
-b2 = BloodOath.new(c2, f1)
+b2 = BloodOath.new(c2, f7)
 b3 = BloodOath.new(c2, f2)
-b9 = BloodOath.new(c2, f3)
+b9 = BloodOath.new(c2, f7)
 b8 = BloodOath.new(c2, f4)
 b4 = BloodOath.new(c1, f5)
 b5 = BloodOath.new(c3, f6)
